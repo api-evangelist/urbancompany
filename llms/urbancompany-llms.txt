@@ -1,0 +1,27 @@
+# Urban Company
+
+> Urban Company (formerly UrbanClap) is an on-demand home services marketplace that connects customers with trained, hand-picked service professionals for beauty and salon services, cleaning, appliance repair, plumbing, electrical work, painting, and pest control. The platform operates across 40+ cities in India as well as the UAE, Saudi Arabia, and Singapore. Urban Company does not publish a public developer API.
+
+Urban Company is a consumer platform delivered through its website and mobile apps. As of 2026-07-21 no public developer portal, API documentation, OpenAPI specification, or client SDKs were found.
+
+## Company
+
+- [Website](https://www.urbancompany.com/): Book home services across India, UAE, Saudi Arabia, and Singapore
+- [About Us](https://www.urbancompany.com/about): Company overview
+- [Blog](https://www.urbancompany.com/blog): Company blog
+- [Help Center](https://www.urbancompany.com/helpcenter): Customer support
+- [Investor Relations](https://investorrelations.urbancompany.com/): Financial reports and ESG
+- [Register as a Professional](https://partner.urbancompany.com): Partner onboarding for service professionals
+- [Careers](https://careers.urbanclap.com/): Jobs at Urban Company
+
+## Policies
+
+- [Terms & Conditions](https://www.urbancompany.com/terms)
+- [Privacy Policy](https://www.urbancompany.com/privacy-policy)
+- [Information Security Policy](https://www.urbancompany.com/infosec-policy-statement-and-objective)
+- [Anti Discrimination Policy](https://www.urbancompany.com/anti-discrimination-policy)
+- [Service Professionals Welfare Policy](https://www.urbancompany.com/partner-welfare-policy)
+
+## API Evangelist Profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/urbancompany/refs/heads/main/apis.yml): Machine-readable profile of Urban Company in the API Evangelist network

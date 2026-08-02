@@ -1,8 +1,25 @@
 aid: urbancompany
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/urbancompany.png
 name: UrbanCompany
-description: 'UrbanCompany is a company surfaced as a portfolio company of accel and added to the API
-  Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Urban Company (formerly UrbanClap) is an on-demand home services marketplace
+  that connects customers with trained, hand-picked service professionals for
+  beauty and salon services, cleaning, appliance repair, plumbing, electrical
+  work, painting, and pest control. The Accel-backed platform operates across
+  40+ cities in India as well as the UAE, Saudi Arabia, and Singapore, and is
+  delivered through its website and mobile apps. Urban Company does not publish
+  a public developer API.
 url: https://raw.githubusercontent.com/api-evangelist/urbancompany/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +28,21 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Consumer
+- Home Services
+- Marketplace
+- Beauty
+- Cleaning
+- Repair
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +51,20 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.urbancompany.com
+  url: https://www.urbancompany.com/
+- type: Blog
+  url: https://www.urbancompany.com/blog
+- type: Support
+  url: https://www.urbancompany.com/helpcenter
+- type: TermsOfService
+  url: https://www.urbancompany.com/terms
+- type: PrivacyPolicy
+  url: https://www.urbancompany.com/privacy-policy
+- type: SignUp
+  url: https://partner.urbancompany.com
+- type: DomainSecurity
+  url: security/urbancompany-domain-security.yml
+- type: WellKnown
+  url: well-known/urbancompany-well-known.yml
+- type: LLMsTxt
+  url: llms/urbancompany-llms.txt
