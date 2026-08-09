@@ -12,14 +12,11 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/urbancompany.png
 name: UrbanCompany
-description: >-
-  Urban Company (formerly UrbanClap) is an on-demand home services marketplace
-  that connects customers with trained, hand-picked service professionals for
-  beauty and salon services, cleaning, appliance repair, plumbing, electrical
-  work, painting, and pest control. The Accel-backed platform operates across
-  40+ cities in India as well as the UAE, Saudi Arabia, and Singapore, and is
-  delivered through its website and mobile apps. Urban Company does not publish
-  a public developer API.
+description: Urban Company (formerly UrbanClap) is an on-demand home services marketplace that connects
+  customers with trained, hand-picked service professionals for beauty and salon services, cleaning, appliance
+  repair, plumbing, electrical work, painting, and pest control. The Accel-backed platform operates across
+  40+ cities in India as well as the UAE, Saudi Arabia, and Singapore, and is delivered through its website
+  and mobile apps. Urban Company does not publish a public developer API.
 url: https://raw.githubusercontent.com/api-evangelist/urbancompany/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -34,7 +31,7 @@ x-enrichment:
   artifacts_added: 3
   pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-08-08'
 tags:
 - Company
 - Consumer
@@ -68,3 +65,15 @@ common:
   url: well-known/urbancompany-well-known.yml
 - type: LLMsTxt
   url: llms/urbancompany-llms.txt
+- type: About
+  url: https://www.urbancompany.com/about
+- type: BlogRSS
+  url: https://medium.com/feed/urbanclap-engineering
+- type: GitHubOrganization
+  url: https://github.com/urbanclap-engg
+- type: InvestorRelations
+  url: https://investorrelations.urbancompany.com/
+- type: SecurityPolicy
+  url: https://www.urbancompany.com/infosec-policy-statement-and-objective
+x-merged-from:
+- urban-company
